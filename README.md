@@ -11,6 +11,10 @@
 
 <br>
 
+### :syringe: Projeto
+
+DOE é um projeto que visa ser um banco de dados para doadores de sangue. 
+
 ### :rocket: Tecnologias usadas
 Este projeto foi desenvolvido com as seguintes tecnologias:
 - :u6708: **Javascript**
@@ -18,9 +22,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - :u6709: **CSS**
 - :recycle: **Node.js**
 
-### :syringe: Projeto
-
-DOE é um projeto que visa ser um banco de dados para doadores de sangue. 
 
 ### 🩸 Qual a importância de doar sangue? <br>
 A doação de sangue é um gesto solidário de doar uma pequena quantidade do próprio sangue para <b>salvar a vida de pessoas</b> que se submetem a tratamentos e intervenções médicas de grande porte e complexidade, como transfusões, transplantes, procedimentos oncológicos e cirurgias.

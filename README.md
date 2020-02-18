@@ -19,7 +19,10 @@
 ## 💻 O Projeto
 DOE - Site desenvolvido durante a MaratonaDev da [RocketSeat](https://rocketseat.com.br/) com o objetivo de armazenar e-mails de voluntários em um banco de dados para contato posterior
 
-### :rocket: Tecnologias usadas
+## ☕ Funcionalidades
+- Captura de e-mails de voluntários
+
+## :rocket: Tecnologias usadas
 Este projeto foi desenvolvido com as seguintes tecnologias:
 - :u6708: **Javascript**
 - :u7533: **HTML5**
@@ -27,14 +30,14 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - :recycle: **Node.js**
 
 
-### 🩸 Qual a importância de doar sangue? <br>
+## 🩸 Qual a importância de doar sangue? <br>
 A doação de sangue é um gesto solidário de doar uma pequena quantidade do próprio sangue para <b>salvar a vida de pessoas</b> que se submetem a tratamentos e intervenções médicas de grande porte e complexidade, como transfusões, transplantes, procedimentos oncológicos e cirurgias.
 
-### :mortar_board: Quem ministrou?
+## :mortar_board: Quem ministrou?
 
 A maratona foi ministrada pelo <b>Mestre Jedi</b> [Mayk Brito](https://github.com/maykbrito)
 
-### :memo: Licença
+## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 

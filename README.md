@@ -1,7 +1,12 @@
 <h1 align="center">
-  <img src="./assets/0101.png" width="250px" /><br>
+  <img src="public/logo.png" width="250px" /><br>
   Toda doação é importante!
 </h2>
+
+<p align="center">
+    <img src="./assets/0101.png"/>
+</p>
+
 <p align="center">
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F7DF1E">

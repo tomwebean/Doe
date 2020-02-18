@@ -16,9 +16,8 @@
 
 <br>
 
-### :syringe: Projeto
-
-DOE é um projeto que visa ser um banco de dados para doadores de sangue. 
+## 💻 O Projeto
+DOE - Site desenvolvido durante a MaratonaDev da [RocketSeat](https://rocketseat.com.br/) com o objetivo de armazenar e-mails de voluntários em um banco de dados para contato posterior
 
 ### :rocket: Tecnologias usadas
 Este projeto foi desenvolvido com as seguintes tecnologias:
